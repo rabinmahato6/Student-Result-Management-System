@@ -56,10 +56,10 @@ and slicers to create an automated result system and interactive dashboard.
 ![image alt](https://github.com/rabinmahato6/Student-Result-Management-System/blob/ec988a5c684a91f35dadb8b6e34d73340978bea7/Dashboard%20Preview.png)
 
 2. Result Sheet
-
+![image alt](https://github.com/rabinmahato6/Student-Result-Management-System/blob/ba036e2063ce73b36f69e5d397080c80dfec9b7f/Result%20Sheet.png)
 
 3. top5 students result
-
+![image alt](
 
 #=> Project Structure
 1st create a folder
