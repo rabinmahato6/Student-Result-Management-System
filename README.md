@@ -53,7 +53,7 @@ and slicers to create an automated result system and interactive dashboard.
 
 #=> Screenshots
 1. Dashboard Preview
-
+![image alt](https://github.com/rabinmahato6/Student-Result-Management-System/blob/ec988a5c684a91f35dadb8b6e34d73340978bea7/Dashboard%20Preview.png)
 
 2. Result Sheet
 
