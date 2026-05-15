@@ -53,25 +53,13 @@ and slicers to create an automated result system and interactive dashboard.
 
 #=> Screenshots
 1. Dashboard Preview
-![image alt](https://github.com/rabinmahato6/Student-Result-Management-System/blob/ec988a5c684a91f35dadb8b6e34d73340978bea7/Dashboard%20Preview.png)
+![image alt](https://github.com/rabinmahato6/Student-Result-Management-System/blob/ec988a5c684a91f35dadb8b6e34d73340978bea7/Dashboard%20Preview.png) .
 
 2. Result Sheet
-![image alt](https://github.com/rabinmahato6/Student-Result-Management-System/blob/ba036e2063ce73b36f69e5d397080c80dfec9b7f/Result%20Sheet.png)
+![image alt](https://github.com/rabinmahato6/Student-Result-Management-System/blob/ba036e2063ce73b36f69e5d397080c80dfec9b7f/Result%20Sheet.png) .
 
-3. top5 students result
-![image alt](
-
-#=> Project Structure
-1st create a folder
-#Student-Result-Management-System/
-
-──> Student_Result_System.xlsx
-──> README.md
-──> screenshots/
-    ├── dashboard.png
-    ├── result_sheet.png
-    |── top5 students result.png
-
+4. top5 students result
+![image alt](https://github.com/rabinmahato6/Student-Result-Management-System/blob/2dcf01ee6f9caa787dd52219d39ef055af3ccc14/Top5%20students%20result.png)
 
 #=> Skills Demonstrated
 
